@@ -41,7 +41,7 @@ The data includes the tarmac image and the label file. ** The folder format and 
 The folder directory is as follows:
 
 
-https://github.com/ErnestNamHee/ModelArts-Labs/blob/master/ModelArts-Lab/HiLens/Plane_Detection/img/files.png
+! [] (./ img / files.png)
 
 Among them, the txt file is a label file, and the content format of the file is:
 
