@@ -18,7 +18,7 @@ This project is the "Aircraft Identification Model" subsystem of the system. Bas
 
 Use the Huawei Cloud Cloud Collaborative AI Application Development Platform [HiLens] (https://www.huaweicloud.com/product/hilens.html) to send the model trained by ModelArts to the HiLens Kit, an end-side device, to achieve real-time end-side Detection.
 
-This project provides a "ModelArts-Lab Treasure Hunt" project based on Pomelo Data. Project address: [youzidata-Aerodrome Runway Aircraft Identification] (https://github.com/huaweicloud/ModelArts-Lab/tree/master/contrib/0 .% E6% 8C% 96% E5% AE% 9D% E8% A1% 8C% E5% 8A% A8 / youzidata-% E6% 9C% BA% E5% 9D% AA% E8% B7% 91% E9% 81 % 93% E8% 88% AA% E7% A9% BA% E5% 99% A8% E8% AF% 86% E5% 88% AB).
+This project provides a "ModelArts-Lab Treasure Hunt" project based on Pomelo Data. Project address: [youzidata-Aerodrome Runway Aircraft Identification] (https://github.com/huaweicloud/ModelArts-Lab/tree/master/contrib/0.%E6%8C%96%E5%AE%9D%E8%A1%8C%E5%8A%A8/youzidata-%E6%9C%BA%E5%9D%AA%E8%B7%91%E9%81%93%E8%88%AA%E7%A9%BA%E5%99%A8%E8%AF%86%E5%88%AB).
 
 ## Third, the specific process
 
