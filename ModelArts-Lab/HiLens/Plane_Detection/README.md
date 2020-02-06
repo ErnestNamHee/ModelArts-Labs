@@ -1,6 +1,7 @@
-Apron aircraft identification
-ModelArts & HiLens side cloud collaboration case
-Application value
+ # Apron aircraft identification
+## ModelArts & HiLens side cloud collaboration case
+
+## Application value
 
 Different from road traffic, it is difficult for the aircraft to separate the taxiing path of the flight through overhead, tunnels and other methods when the aircraft is on the ground. Due to the increase in the number of aircraft takeoffs and landings and the impact of bad weather, runway incursions have become the ground safety of aircraft in the civil aviation field First-class problems in operation. Runway safety accidents account for a large proportion of civil aviation accidents. Therefore, the identity, location, and dynamic control of targets such as aircraft and vehicles operating on airport runways and taxiways, largely determine the degree of control. The coefficient of runway safety.
 
